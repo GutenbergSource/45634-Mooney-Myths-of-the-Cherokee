@@ -1,72 +1,37 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
-</image>
-<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
-</image>
-<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
-</image>
-<image path="images/fig1.jpg" filesize="35168" filedate="2014-05-10 16:58:06" width="484px" height="408px">
-</image>
-<image path="images/fig2.jpg" filesize="40744" filedate="2014-05-10 17:00:53" width="312px" height="427px">
-</image>
-<image path="images/logo.jpg" filesize="14861" filedate="2014-03-31 19:22:35" width="180px" height="240px">
-</image>
-<image path="images/new-cover-tn.jpg" filesize="9503" filedate="2014-05-10 19:51:09" width="205px" height="320px">
-</image>
-<image path="images/new-cover.jpg" filesize="42335" filedate="2014-05-10 19:50:12" width="461px" height="720px">
-</image>
-<image path="images/pl-01.jpg" filesize="82820" filedate="2014-03-31 20:11:09" width="720px" height="430px">
-</image>
-<image path="images/pl-02.jpg" filesize="117374" filedate="2014-05-10 19:36:01" width="720px" height="697px">
-</image>
-<image path="images/pl-02h.jpg" filesize="690745" filedate="2014-05-10 19:35:18" width="2116px" height="2048px">
-</image>
-<image path="images/pl-03.jpg" filesize="91648" filedate="2014-05-10 19:37:22" width="720px" height="490px">
-</image>
-<image path="images/pl-03h.jpg" filesize="1216306" filedate="2014-05-10 19:36:41" width="3006px" height="2048px">
-</image>
-<image path="images/pl-04.jpg" filesize="58667" filedate="2014-04-05 06:29:53" width="626px" height="720px">
-</image>
-<image path="images/pl-05.jpg" filesize="64430" filedate="2014-04-05 06:37:02" width="464px" height="720px">
-</image>
-<image path="images/pl-05h.jpg" filesize="324214" filedate="2014-04-05 06:38:15" width="1319px" height="2048px">
-</image>
-<image path="images/pl-06.jpg" filesize="57410" filedate="2014-04-10 18:06:10" width="628px" height="720px">
-</image>
-<image path="images/pl-07.jpg" filesize="64426" filedate="2014-04-10 18:09:07" width="625px" height="720px">
-</image>
-<image path="images/pl-08.jpg" filesize="57224" filedate="2014-04-10 18:12:27" width="530px" height="720px">
-</image>
-<image path="images/pl-09.jpg" filesize="90875" filedate="2014-04-10 18:15:26" width="541px" height="720px">
-</image>
-<image path="images/pl-10.jpg" filesize="48897" filedate="2014-04-10 18:18:38" width="499px" height="720px">
-</image>
-<image path="images/pl-11.jpg" filesize="62193" filedate="2014-04-10 18:21:33" width="465px" height="720px">
-</image>
-<image path="images/pl-12.jpg" filesize="47977" filedate="2014-04-10 18:24:29" width="527px" height="720px">
-</image>
-<image path="images/pl-13.jpg" filesize="52763" filedate="2014-04-10 20:00:56" width="457px" height="720px">
-</image>
-<image path="images/pl-14.jpg" filesize="60962" filedate="2014-04-10 18:30:39" width="473px" height="720px">
-</image>
-<image path="images/pl-15.jpg" filesize="76126" filedate="2014-05-10 20:09:48" width="415px" height="720px">
-</image>
-<image path="images/pl-16.jpg" filesize="58438" filedate="2014-05-10 20:11:59" width="720px" height="466px">
-</image>
-<image path="images/pl-17.jpg" filesize="55912" filedate="2014-05-10 20:14:00" width="462px" height="720px">
-</image>
-<image path="images/pl-18.jpg" filesize="59029" filedate="2014-05-10 20:16:14" width="465px" height="720px">
-</image>
-<image path="images/pl-19.jpg" filesize="72907" filedate="2014-05-10 20:18:05" width="720px" height="422px">
-</image>
-<image path="images/pl-20.jpg" filesize="36887" filedate="2014-05-10 20:20:28" width="380px" height="720px">
-</image>
-<image path="images/rightbrace2.png" filesize="371" filedate="2014-05-10 17:08:39" width="11px" height="34px">
-</image>
-<image path="images/rightbrace3.png" filesize="441" filedate="2014-05-10 17:08:26" width="10px" height="49px">
-</image>
-<image path="images/rightbrace5.png" filesize="683" filedate="2014-05-10 17:08:03" width="12px" height="98px">
-</image>
-<image path="images/titlepage.jpg" filesize="19031" filedate="2014-03-31 19:21:21" width="411px" height="720px">
-</image>
+<image path="images/book.png" filesize="219" filedate="2018-12-16 15:00:08" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 15:00:08" width="16px" height="11px"/>
+<image path="images/external.png" filesize="159" filedate="2018-12-16 15:00:08" width="12px" height="12px"/>
+<image path="images/fig1.jpg" filesize="34811" filedate="2018-12-16 15:00:08" width="484px" height="408px"/>
+<image path="images/fig2.jpg" filesize="40546" filedate="2018-12-16 15:00:09" width="312px" height="427px"/>
+<image path="images/logo.jpg" filesize="14751" filedate="2018-12-16 15:00:09" width="180px" height="240px"/>
+<image path="images/new-cover.jpg" filesize="41785" filedate="2018-12-16 15:00:09" width="461px" height="720px"/>
+<image path="images/pl-01.jpg" filesize="82076" filedate="2018-12-16 15:00:09" width="720px" height="430px"/>
+<image path="images/pl-02.jpg" filesize="115704" filedate="2018-12-16 15:00:09" width="720px" height="697px"/>
+<image path="images/pl-02h.jpg" filesize="677961" filedate="2018-12-16 15:00:10" width="2116px" height="2048px"/>
+<image path="images/pl-03.jpg" filesize="90464" filedate="2018-12-16 15:00:10" width="720px" height="490px"/>
+<image path="images/pl-03h.jpg" filesize="1192882" filedate="2018-12-16 15:00:11" width="3006px" height="2048px"/>
+<image path="images/pl-04.jpg" filesize="58069" filedate="2018-12-16 15:00:11" width="626px" height="720px"/>
+<image path="images/pl-05.jpg" filesize="63910" filedate="2018-12-16 15:00:11" width="464px" height="720px"/>
+<image path="images/pl-05h.jpg" filesize="317790" filedate="2018-12-16 15:00:12" width="1319px" height="2048px"/>
+<image path="images/pl-06.jpg" filesize="57065" filedate="2018-12-16 15:00:12" width="628px" height="720px"/>
+<image path="images/pl-07.jpg" filesize="63916" filedate="2018-12-16 15:00:12" width="625px" height="720px"/>
+<image path="images/pl-08.jpg" filesize="56893" filedate="2018-12-16 15:00:12" width="530px" height="720px"/>
+<image path="images/pl-09.jpg" filesize="90358" filedate="2018-12-16 15:00:12" width="541px" height="720px"/>
+<image path="images/pl-10.jpg" filesize="48327" filedate="2018-12-16 15:00:12" width="499px" height="720px"/>
+<image path="images/pl-11.jpg" filesize="62024" filedate="2018-12-16 15:00:12" width="465px" height="720px"/>
+<image path="images/pl-12.jpg" filesize="47288" filedate="2018-12-16 15:00:12" width="527px" height="720px"/>
+<image path="images/pl-13.jpg" filesize="52606" filedate="2018-12-16 15:00:12" width="457px" height="720px"/>
+<image path="images/pl-14.jpg" filesize="60825" filedate="2018-12-16 15:00:12" width="473px" height="720px"/>
+<image path="images/pl-15.jpg" filesize="75606" filedate="2018-12-16 15:00:13" width="415px" height="720px"/>
+<image path="images/pl-16.jpg" filesize="58085" filedate="2018-12-16 15:00:13" width="720px" height="466px"/>
+<image path="images/pl-17.jpg" filesize="55736" filedate="2018-12-16 15:00:13" width="462px" height="720px"/>
+<image path="images/pl-18.jpg" filesize="58907" filedate="2018-12-16 15:00:13" width="465px" height="720px"/>
+<image path="images/pl-19.jpg" filesize="72306" filedate="2018-12-16 15:00:13" width="720px" height="422px"/>
+<image path="images/pl-20.jpg" filesize="36466" filedate="2018-12-16 15:00:13" width="380px" height="720px"/>
+<image path="images/qrcode.png" filesize="267" filedate="2018-12-16 15:00:23" width="148px" height="148px"/>
+<image path="images/rightbrace2.png" filesize="173" filedate="2018-12-16 15:00:23" width="11px" height="34px"/>
+<image path="images/rightbrace3.png" filesize="179" filedate="2018-12-16 15:00:23" width="10px" height="49px"/>
+<image path="images/rightbrace5.png" filesize="223" filedate="2018-12-16 15:00:24" width="12px" height="98px"/>
+<image path="images/titlepage.jpg" filesize="18750" filedate="2018-12-16 15:00:24" width="411px" height="720px"/>
 </images>

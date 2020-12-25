@@ -66,7 +66,7 @@ V--The myths                                                239
        10. Origin of the Pleiades and the Pine              258
        11. The milky way                                    259
        12. Origin of strawberries                           259
-       13. The Great Yellow-jacket: Origin of fish and 
+       13. The Great Yellow-jacket: Origin of fish and
            frogs                                            260
        14. The Deluge                                       261
 
@@ -89,7 +89,7 @@ V--The myths                                                239
        29. Why the Mink smells                              277
        30. Why the Mole lives under ground                  277
        31. The Terrapin's escape from the wolves            278
-       32. Origin of the Groundhog dance: The Groundhog's 
+       32. Origin of the Groundhog dance: The Groundhog's
            head                                             279
        33. The migration of the animals                     280
        34. The Wolf's revenge: The Wolf and the Dog         280
@@ -181,7 +181,7 @@ V--The myths                                                239
       108. The massacre of the Ani'-Kuta'ni                 392
       109. The war medicine                                 393
       110. Incidents of personal heroism                    394
-      111. The mounds and the constant fire: The old 
+      111. The mounds and the constant fire: The old
            sacred things                                    395
 
     Miscellaneous myths and legends                         397
@@ -352,11 +352,11 @@ late Col. Z. A. Zile, of Atlanta; Mr L. M. Greer, of Ellijay, Georgia;
 Mr Thomas Robinson, of Portland, Maine; Mr Allen Ross, Mr W. T. Canup,
 editor of the Indian Arrow, and the officers of the Cherokee Nation,
 Tahlequah, Indian Territory; Dr D. T. Day, United States Geological
-Survey, Washington, D. C., and Prof. G. M. Bowers, of the United
+Survey, Washington, D.C., and Prof. G. M. Bowers, of the United
 States Fish Commission, for valuable oral information, letters,
 clippings, and photographs; to Maj. J. Adger Smyth, of Charleston,
-S. C., for documentary material; to Mr Stansbury Hagar and the late
-Robert Grant Haliburton, of Brooklyn, N. Y., for the use of valuable
+S.C., for documentary material; to Mr Stansbury Hagar and the late
+Robert Grant Haliburton, of Brooklyn, N.Y., for the use of valuable
 manuscript notes upon Cherokee stellar legends; to Miss A. M. Brooks
 for the use of valuable Spanish document copies and translations
 entrusted to the Bureau of American Ethnology; to Mr James Blythe,
@@ -591,7 +591,7 @@ Heckewelder makes the Mississippi (6). On the other side, we are told,
 "The Talligewi possessed the East." The Delaware chief "desired the
 eastern land," and some of his people go on, but are killed, by the
 Talligewi. The Delawares decide upon war and call in the help of their
-northern friends, the "Talamatan," i. e., the Wyandot and other allied
+northern friends, the "Talamatan," i.e., the Wyandot and other allied
 Iroquoian tribes. A war ensues which continues through the terms of
 four successive chiefs, when victory declares for the invaders, and
 "all the Talega go south." The country is then divided, the Talamatan
@@ -694,7 +694,7 @@ decayed. They showed no signs of violence, but were evidently the
 accumulation of long years from the neighboring Indian town. The
 distinguished writer adds: "But on whatever occasion they may have
 been made, they are of considerable notoriety among the Indians: for
-a party passing, about thirty years ago [i. e., about 1750], through
+a party passing, about thirty years ago [i.e., about 1750], through
 the part of the country where this barrow is, went through the woods
 directly to it without any instructions or enquiry, and having staid
 about it some time, with expressions which were construed to be those
@@ -866,7 +866,7 @@ their unwillingness to give any part of their stored-up provision to
 the unwelcome strangers. As the Spaniards were greatly in need of corn
 for themselves and their horses, they made no stay, but hurried on. In
 a few days they arrived at Guaquili, which is mentioned only by Ranjel,
-who does not specify whether it was a town or a province--i. e.,
+who does not specify whether it was a town or a province--i.e.,
 a tribal territory. It was probably a small town. Here they were
 welcomed in a friendly manner, the Indians giving them a little corn
 and many wild turkeys, together with some dogs of a peculiar small
@@ -985,7 +985,7 @@ made an unsuccessful attempt at settlement at the same place, and in
 a fort which he called San Felipe. [36] In November of that year
 Captain Juan Pardo was sent with a party from the fort to explore the
 interior. Accompanied by the chief of "Juada" (which from Vandera's
-narrative we find should be "Joara," i. e., the Sara Indians already
+narrative we find should be "Joara," i.e., the Sara Indians already
 mentioned in the De Soto chronicle), he proceeded as far as the
 territory of that tribe, where he built a fort, but on account of
 the snow in the mountains did not think it advisable to go farther,
@@ -1037,7 +1037,7 @@ Gueza, and Arauchi, and arrived at Otariyatiqui, or Otari, in which
 we have perhaps the Cherokee â'tari or â'tali, "mountain". It may
 have been a frontier Cherokee settlement, and, according to the old
 chronicler, its chief and language ruled much good country. From here
-a trail went northward to Guatari, Sauxpa, and Usi, i. e., the Wateree,
+a trail went northward to Guatari, Sauxpa, and Usi, i.e., the Wateree,
 Waxhaw (or Sissipahaw?), and Ushery or Catawba.
 
 Leaving Otariyatiqui, they went on to Quinahaqui, and then, turning
@@ -8006,7 +8006,7 @@ final. Ettwein, another Moravian writer, says the Delawares called
 "the western country" Alligewenork, meaning a warpath, and called
 the river Alligewi Sipo. This definition would make the word come
 from palliton or alliton, to fight, to make war, ewak, they go, and a
-locative, i. e., "they go there to fight." Trumbull, an authority on
+locative, i.e., "they go there to fight." Trumbull, an authority on
 Algonquian languages, derives the river name from wulik, good, best,
 hanne, rapid stream, and sipu, river, of which rendering its Iroquois
 name, Ohio, is nearly an equivalent. Rafinesque renders Talligewi as
@@ -8161,7 +8161,7 @@ Ojadagochroene. Livingston, 1720, in New York Doc. Col. Hist., V,
 Ondadeonwas. Bleeker, 1701, ibid., IV, 918, 1854.
 Oyadackuchraono. Weiser, 1753, ibid., VI, 795, 1855.
 Oyadagahroenes. Letter of 1713, ibid., V, 386, 1855 (incorrectly
-stated to be the Flat-heads, i. e., either Catawbas or Choctaws).
+stated to be the Flat-heads, i.e., either Catawbas or Choctaws).
 Oyadage'ono. Gatschet, Seneca MS, 1882, Bur. Am. Ethn. (Seneca name).
 O-ya-dä'-go-o-no. Morgan, League of Iroquois, 337, 1851.
 Oyaudah. Schoolcraft, Notes on Iroquois, 448, 1847 (Seneca name).
@@ -8320,7 +8320,7 @@ different dialects, and including, among others, the following:
     Wyandot, or Huron.                | Ontario, Canada.
     Tionontati, or Tobacco nation.    |
     Attiwan'daron, or Neutral nation. |
-    Tohotaenrat.                      |  
+    Tohotaenrat.                      |
     Wenrorono.                        |
 
     Mohawk.   | Iroquois, or Five Nations, New York.
@@ -8334,7 +8334,7 @@ different dialects, and including, among others, the following:
     Conestoga, or Susquehanna. Southern Pennsylvania and Maryland.
 
     Nottoway.  | Southern Virginia.
-    Meherrin?. |
+    Meherrin?  |
 
     Tuscarora. Eastern North Carolina.
 
@@ -8409,7 +8409,7 @@ the conclusion that the work is a genuine native production, although
 the manuscript rendering is faulty, partly from the white scribe's
 ignorance of the language and partly from the Indian narrator's
 ignorance of the meaning of the archaic forms. Brinton's edition
-(q. v.), published from Rafinesque's manuscript, gives the legend
+(q.v.), published from Rafinesque's manuscript, gives the legend
 in triplicate form--pictograph, Delaware, and English translation,
 with notes and glossary, and a valuable ethnologic introduction by
 Brinton himself.
@@ -8945,10 +8945,10 @@ in Alabama or Georgia. Gallatin (1836) says that it "must have
 been on the Coosa, probably some distance below the site of New
 Echota." He notes a similarity of sound between Ichiaha and "Echoy"
 (Itseyi), a Cherokee town name. Williams (1837) says that it was on
-Mobile (i. e., the Alabama or lower Coosa river). Meek (1839) says
+Mobile (i.e., the Alabama or lower Coosa river). Meek (1839) says
 "there can be little doubt that Chiaha was situated but a short
 distance above the junction of the Coosa and Chattooga rivers,"
-i. e., not far within the Alabama line. He notes the occurrence of a
+i.e., not far within the Alabama line. He notes the occurrence of a
 "Chiaha" (Chehawhaw) creek near Talladega, Alabama. In regard to the
 island upon which the town was said to have been situated he says:
 "There is no such island now in the Coosa. It is probable that the
@@ -8990,7 +8990,7 @@ halted in view of the mouth of the Etowah. De Soto, having arrived
 immediately opposite the great town of Chiaha, now the site of Rome,
 crossed the Oostanaula," etc. (History of Alabama, p. 23, reprint,
 1896). He overlooks the fact that Chiaha was not a Cherokee town,
-but belonged to the province of Coça--i. e., the territory of the
+but belonged to the province of Coça--i.e., the territory of the
 Creek Indians.
 
 A careful study of the four original narratives makes it plain that
@@ -10060,7 +10060,7 @@ State Papers, Indian Affairs, I and II.
 of the allied northern tribes in the British service was born near
 the present Chillicothe, in western Ohio, about 1770, and fell in the
 battle of the Thames, in Ontario, October 5, 1813. His name signifies
-a "flying panther"--i. e., a meteor. He came of fighting stock good
+a "flying panther"--i.e., a meteor. He came of fighting stock good
 even in a tribe distinguished for its warlike qualities, his father
 and elder brother having been killed in battle with the whites. His
 mother is said to have died among the Cherokee. Tecumtha is first
@@ -10783,7 +10783,7 @@ close of the civil war:
 
 "Those Cherokees who were loyal to the Union combined in a secret
 organization for self-protection, assuming the designation of the
-Ketoowha society, which name was soon merged in that of "Pins." The
+Ketoowha society, which name was soon merged in that of 'Pins.' The
 Pins were so styled because of a peculiar manner they adopted of
 wearing a pin. The symbol was discovered by their enemies, who
 applied the term in derision; but it was accepted by this loyal
@@ -10805,18 +10805,19 @@ in February, 1863. They not only abolished slavery unconditionally and
 forever, before any slave state made a movement toward emancipation,
 but made any attempts at enslaving a grave misdemeanor.
 
-The secret signs of the Pins were a peculiar way of touching the hat as
-a salutation, particularly when they were too far apart for recognition
-in other ways. They had a peculiar mode of taking hold of the lapel
-of the coat, first drawing it away from the body, and then giving it a
-motion as though wrapping it around the heart. During the war a portion
-of them were forced into the rebellion, but quickly rebelled against
-General Cooper, who was placed over them, and when they fought against
-that general, at Bird Creek, they wore a bit of corn-husk, split into
-strips, tied in their hair. In the night when two Pins met, and one
-asked the other, 'Who are you?' the reply or pass was, 'Tahlequah--who
-are you?' The response was, 'I am Ketoowha's son.'"--Dr D. J. MacGowan,
-Indian Secret Societies, in Historical Magazine, X, 1866.
+"The secret signs of the Pins were a peculiar way of touching the hat
+as a salutation, particularly when they were too far apart for
+recognition in other ways. They had a peculiar mode of taking hold of
+the lapel of the coat, first drawing it away from the body, and then
+giving it a motion as though wrapping it around the heart. During the
+war a portion of them were forced into the rebellion, but quickly
+rebelled against General Cooper, who was placed over them, and when
+they fought against that general, at Bird Creek, they wore a bit of
+corn-husk, split into strips, tied in their hair. In the night when two
+Pins met, and one asked the other, 'Who are you?' the reply or pass
+was, 'Tahlequah--who are you?' The response was, 'I am Ketoowha's
+son.'"--Dr D. J. MacGowan, Indian Secret Societies, in Historical
+Magazine, X, 1866.
 
 (48) Farewell address of Lloyd Welch (p. 175): In the sad and eventful
 history of the Cherokee their gifted leaders, frequently of white
@@ -11807,7 +11808,7 @@ said the boys, "we found it, but it never hurt us. We are men." Kana'ti
 was surprised, but said nothing, and they went on again.
 
 After a while he turned to them and said, "Now you must be careful. We
-are coming to a tribe called the Anada'dûñtaski ("Roasters," i. e.,
+are coming to a tribe called the Anada'dûñtaski ("Roasters," i.e.,
 cannibals), and if they get you they will put you into a pot and feast
 on you." Then he went on ahead. Soon the boys came to a tree which
 had been struck by lightning, and the Wild Boy directed his brother to
@@ -12666,7 +12667,7 @@ lonely vigils. The Little Deer keeps constant protecting watch over
 his subjects, and sees well to it that not one is ever killed in
 wantonness. When a deer is shot by the hunter the Little Deer knows
 it at once and is instantly at the spot. Bending low his head he
-asks of the blood stains upon the ground if they have heard--i. e.,
+asks of the blood stains upon the ground if they have heard--i.e.,
 if the hunter has asked pardon for the life that he has taken. If the
 formulistic prayer has been made, all is well, because the necessary
 sacrifice has been atoned for; but if otherwise, the Little Deer tracks
@@ -13126,7 +13127,7 @@ she got it. She replied that she arose betimes in the morning and
 gathered the dewdrops. However the wolf and the fox suspected her of
 theft and hit on the following plan to detect her:
 
-They made a wolf of tar and placed it near the well. On the following
+"They made a wolf of tar and placed it near the well. On the following
 night the hare came as usual after her supply of water. On seeing
 the tar wolf she demanded who was there. Receiving no answer she
 repeated the demand, threatening to kick the wolf if he did not
@@ -13694,7 +13695,7 @@ before being brought into the settlement.
 
 The raven (kâ'lanû) is occasionally seen in the mountains, but is
 not prominent in folk belief, excepting in connection with the
-grewsome tales of the Raven Mocker (q. v.). In former times its
+grewsome tales of the Raven Mocker (q.v.). In former times its
 name was sometimes assumed as a war title. The crow, so prominent
 in other tribal mythologies, does not seem to appear in that of
 the Cherokee. Three varieties of owls are recognized, each under a
@@ -13798,7 +13799,7 @@ The chickadee (Parus carolinensis), tsikilili', and the tufted
 titmouse, (Parus bicolor), utsu'`gi, or u'stûti, are both regarded as
 news bringers, but the one is venerated as a truth teller while the
 other is scoffed at as a lying messenger, for reasons which appear
-in the story of Nûñyunu'wi (q. v.). When the tsikilili' perches
+in the story of Nûñyunu'wi (q.v.). When the tsikilili' perches
 on a branch near the house and chirps its song it is taken as an
 omen that an absent friend will soon be heard from or that a secret
 enemy is plotting mischief. Many stories are told in confirmation of
@@ -17195,7 +17196,7 @@ The Buffalo dance of the Iroquois is traditionally said to have had
 its origin in an expedition against the Cherokee. When the warriors on
 their way to the south reached the Kentucky salt lick they found there
 a herd of buffalo, and heard them, for the first time, "singing their
-favorite songs," i. e., bellowing and snorting. From the bellowing
+favorite songs," i.e., bellowing and snorting. From the bellowing
 and the movements of the animals were derived the music and action
 of the dance.
 
@@ -17351,7 +17352,7 @@ the custom of warriors. They never encumber themselves with baggage. He
 took nothing but his arms and the meal of a little parched and pounded
 corn. The forest gave him his meat.
 
-Hiadeoni reached the confines of the Cherokee country in safety
+"Hiadeoni reached the confines of the Cherokee country in safety
 and alone. He waited for evening before he entered the precincts of
 a village. He found the people engaged in a dance. He watched his
 opportunity, and when one of the dancers went out from the ring into
@@ -17364,7 +17365,7 @@ others, and took his scalp. Looking into the lodge cautiously he saw
 it empty, and ventured in with the hope of finding some tobacco and
 ammunition to serve him on his way home.
 
-While thus busied in searching the lodge he heard footsteps at the
+"While thus busied in searching the lodge he heard footsteps at the
 door, and immediately threw himself on the bed from which the young
 man had risen, and covered his face, feigning sleep. They proved to be
 the footsteps of his last victim's mother. She, supposing him to be her
@@ -18062,7 +18063,7 @@ stronger."--Arranged from Curtin, Seneca manuscript.
 
 Among the most inveterate foes of the Cherokee were the Shawano, known
 to the Cherokee as Ani'-Sawanu'gi, who in ancient times, probably
-as early as 1680, removed from Savannah (i. e., Shawano) river, in
+as early as 1680, removed from Savannah (i.e., Shawano) river, in
 South Carolina, and occupied the Cumberland river region in middle
 Tennessee and Kentucky, from which they were afterward driven by the
 superior force of the southern tribes and compelled to take refuge
@@ -18455,7 +18456,7 @@ club near the body to make it appear that the work had been done
 by men of that tribe. The Cherokee found the body and the club,
 and naturally supposing that the murder had been committed by the
 Delawares, they suddenly attacked the latter, the result being a long
-and bloody war between the two tribes. [479] At this time, i. e.,
+and bloody war between the two tribes. [479] At this time, i.e.,
 about the end of the seventeenth century, it appears that a part at
 least of the Cherokee lived on the waters of the Upper Ohio, where the
 Delawares made continual inroads upon them, finally driving them from
@@ -19799,7 +19800,7 @@ Degal`gûñ'yi: "Where they are piled up," a series of cairns on both
 sides of the trail down the south side of Cheowa river, in Graham
 county. They extend along the trail for several miles, from below
 Santeetla creek nearly to Slick Rock creek, on the Tennessee line
-(the first being just above Disgâ'gisti'yi, q. v.), and probably mark
+(the first being just above Disgâ'gisti'yi, q.v.), and probably mark
 the site of an ancient battle. One at least, nearly off Yellow creek,
 is reputed to be the grave of a Cherokee killed by the enemy. Every
 passing Indian throws an additional stone upon each heap, believing
@@ -19909,7 +19910,7 @@ Nantahala: A river and ridge of very steep mountains in Macon county,
 the name being a corruption of Nûñ'daye'`li, applied to a former
 settlement about the mouth of Briertown creek, the townhouse being on
 the west side of the river, about the present Jarretts. The word means
-"middle sun," i. e., "midday sun," from nûñda', "sun," and aye'`li,
+"middle sun," i.e., "midday sun," from nûñda', "sun," and aye'`li,
 "middle," and refers to the fact that in places along the stream
 the high cliffs shut out the direct light of the sun until nearly
 noon. From a false idea that it is derived from unûñti, "milk," it
@@ -19930,7 +19931,7 @@ Qualla: A post-office and former trading station in Jackson county,
 on the border of the present East Cherokee reservation, hence
 sometimes called the Qualla reservation. The Cherokee form is Kwali,
 or Kwalûñyi in the locative. According to Captain Terrell, the former
-trader at that place, it was named from Kwali, i. e., Polly, an old
+trader at that place, it was named from Kwali, i.e., Polly, an old
 Indian woman who lived there some sixty years ago.
 
 Saligu'gi: "Turtle place," a deep hole in Oconaluftee river, about
@@ -20529,7 +20530,7 @@ female dignitary among the Cherokee, described by Haywood under the
 title of the "Pretty Woman" as having authority to decide the fate
 of prisoners of war. Wafford once knew an old woman whose name was
 Da`na-gâ'sta, an abbreviated form for Da`nawa-gâsta'ya, "Sharp war,"
-understood to mean "Sharp (i. e., Fierce) warrior." Several cases of
+understood to mean "Sharp (i.e., Fierce) warrior." Several cases of
 women acting the part of warriors are on record among the Cherokee.
 
 
@@ -20879,7 +20880,7 @@ and the plant is tied upon the fish trap for the same purpose.
 
 The root of a plant called unatlûñwe'hitû, "having spirals," is used
 in conjurations designed to predispose strangers in favor of the
-subject. The priest "takes it to water"--i. e., says certain prayers
+subject. The priest "takes it to water"--i.e., says certain prayers
 over it while standing close to the running stream, then chews a small
 piece and rubs and blows it upon the body and arms of the patient,
 who is supposed to be about to start upon a journey, or to take part
@@ -21123,7 +21124,7 @@ of the Cherokee. So much of belief and custom depend upon the myth
 of Kana'ti that references to the principal incidents are constant
 in the songs and formulas. It is one of those myths held so sacred
 that in the old days one who wished to hear it from the priest of
-the tradition must first purify himself by "going to water," i. e.,
+the tradition must first purify himself by "going to water," i.e.,
 bathing in the running stream before daylight when still fasting,
 while the priest performed his mystic ceremonies upon the bank.
 
@@ -21330,7 +21331,7 @@ the spirit land in the west. This is the word constantly used in
 the sacred formulas to denote the west, instead of the ordinary
 word Wude'ligûñ'yi, "Where it sets." In the same way Nûñdâ'yi, or
 Nûñdâgûñ'yi, the "Sun place, or region," is the formulistic name for
-the east instead of Digalûñgûñ'yi, "Where it [i. e., the sun] comes
+the east instead of Digalûñgûñ'yi, "Where it [i.e., the sun] comes
 up," the ordinary term. These archaic expressions give to myths and
 formulas a peculiar beauty which is lost in the translation. As the
 interpreter once said, "I love to hear these old words."
@@ -22854,7 +22855,7 @@ of a disk, according to the Indian idea.
 
 
 44. The Owl gets married (p. 291): Told by Swimmer. The three owls
-of the Cherokee country are known, respectively, as tskili' (i. e.,
+of the Cherokee country are known, respectively, as tskili' (i.e.,
 "witch," Bubo virginianus saturatus, great, dusky-horned owl),
 wa`huhu' (Megascops asio, screech owl), and uguku' (Syrnium nebulosum,
 hooting or barred owl). There is no generic term. The Cherokee say
@@ -23044,8 +23045,8 @@ I saw a large rattlesnake lying across the path, which I was going
 to kill. The Indian immediately forbade my doing so; 'for,' said he,
 'the rattlesnake is grandfather to the Indians, and is placed here
 on purpose to guard us, and to give us notice of impending danger
-by his rattle, which is the same as if he were to tell us, 'look
-about.' 'Now,' added he, 'if we were to kill one of those, the others
+by his rattle, which is the same as if he were to tell us, "look
+about."' 'Now,' added he, 'if we were to kill one of those, the others
 would soon know it, and the whole race would rise upon us and bite
 us.' I observed to him that the white people were not afraid of this;
 for they killed all the rattlesnakes that they met with. On this he
@@ -23132,7 +23133,7 @@ an Indian story, many of which are much more surprising."
 A few years later Adair gives us an account of the serpent and the
 stone. According to his statement the uktenas had their home in a
 deep valley between the heads of the Tuckasegee and the "northern
-branch of the lower Cheerake river" (i. e., the Little Tennessee),
+branch of the lower Cheerake river" (i.e., the Little Tennessee),
 the valley being the deep defile of Nantahala, where, by reason of its
 gloomy and forbidding aspect, Cherokee tradition locates more than
 one legendary terror. With pardonable error he confounds the Uktena
@@ -23706,7 +23707,7 @@ who was a great telltale, appeared and cried out, 'There is just a
 little hole at his throat!'" A hunter directs his arrow to that spot
 and the Elk falls dead (Teit, Thompson River Traditions, pp. 33-34).
 
-U`tlûñ'ta--The word means literally "he (or she) has it sharp," i. e.,
+U`tlûñ'ta--The word means literally "he (or she) has it sharp," i.e.,
 has some sharp part or organ. It might be used of a tooth or finger
 nail or some other attached portion of the body, but here refers to the
 awl-like finger. Ten Kate spells the name Uilata. On Little Tennessee
@@ -24190,7 +24191,7 @@ Kalâs'-Gûnahi'ta--See number 15, "The Four-footed Tribes."
 Rubbed his stomach--This very original method of procuring food occurs
 also in number 3, "Kana'ti and Selu."
 
-Topknots and Splitnoses--Tsuni'stsahi', "Having topknots"--i. e.,
+Topknots and Splitnoses--Tsuni'stsahi', "Having topknots"--i.e.,
 Indians, in allusion to the crests of upright hair formerly worn
 by warriors of the Cherokee and other eastern tribes. Timberlake
 thus describes the Cherokee warrior's headdress in 1762: "The hair
@@ -24198,7 +24199,7 @@ of their head is shaved, tho' many of the old people have it plucked
 out by the roots, except a patch on the hinder part of the head about
 twice the bigness of a crown piece, which is ornamented with beads,
 feathers, wampum, stained deer's hair, and such like baubles" (Memoirs,
-p. 49). Tsunû'`liyû' sûnestlâ'ta, "they have split noses"--i. e., dogs.
+p. 49). Tsunû'`liyû' sûnestlâ'ta, "they have split noses"--i.e., dogs.
 
 Cover the blood--The reincarnation of the slain animal from the drops
 of blood spilt upon the ground or from the bones is a regular part
@@ -24309,7 +24310,7 @@ references see the stories of Tsuwe'nahi, Kana'sta, Yahula, etc.
 Nûñne'hi--This word (gûñne'hi in a dialectic form and naye'hi in
 the singular) may be rendered "dwellers anywhere" or "those who
 live anywhere," but is understood to mean "those who live forever,"
-i. e., Immortals. It is spelled Nanehi by Buttrick and Nuhnayie in
+i.e., Immortals. It is spelled Nanehi by Buttrick and Nuhnayie in
 the Wahnenauhi manuscript. The singular form, Naye'hi, occurs also
 as a personal name, equivalent to Edâ'hi, "One who goes about."
 
@@ -24406,7 +24407,7 @@ isolated," or "isolated place," is a solitary high peak near Cheowa
 Maximum, a few miles northeast of Robbinsville, in Graham county,
 on the summit of which there is said to be a large rock somewhat
 resembling in appearance a circular townhouse with a part wanting
-from one side. Du'stiya`lûñ'yi, "Where it was shot," i. e., "Where
+from one side. Du'stiya`lûñ'yi, "Where it was shot," i.e., "Where
 it was struck by lightning," is the territory on Hiwassee river,
 about the mouth of Shooting creek, above Hayesville, in Clay county
 (see also glossary).
@@ -24594,7 +24595,7 @@ to mean, "at the white place," from une'ga, "white," and may refer
 to a bald spot of perhaps a hundred acres on the top, locally known
 among the whites as Jutaculla old fields, from a tradition, said to be
 derived from the Indians, that it was a clearing made by "Jutaculla"
-(i. e., Tsul`kalû') for a farm. Some distance farther west, on the
+(i.e., Tsul`kalû') for a farm. Some distance farther west, on the
 north side of Cany fork and about ten miles above Webster, in Jackson
 county, is a rock known as Jutaculla rock, covered with various rude
 carvings, which, according to the same tradition, are scratches made
@@ -24678,9 +24679,9 @@ who would join the spirit people appears in several Cherokee myths,
 the idea being, as we learn from the priests, to spiritualize the
 human nature and quicken the spiritual vision by abstinence from
 earthly food. The doctrine is exemplified in an incident of the
-legend of Tsuwe'nahi, q. v. In a broader application, the same idea
+legend of Tsuwe'nahi, q.v. In a broader application, the same idea
 is a foundation principle of every ancient religion. In ordinary
-Cherokee ceremonial the fast is kept for one day--i. e., from midnight
+Cherokee ceremonial the fast is kept for one day--i.e., from midnight
 to sunset. On occasions of supreme importance it continues four or
 even seven days. Among the plains tribes those who voluntarily enter
 the Sun dance to make supplication and sacrifice for their people
@@ -24965,11 +24966,11 @@ and one in the Indian Territory, and were classed as follows:
         in New York, 2,680;
         on Cornplanter reservation, Pennsylvania, 87        2,767
     Tuscarora: in New York                                    408
-    Iroquois mixed bloods, separately enumerated, on 
+    Iroquois mixed bloods, separately enumerated, on
     reservations in New York                                   87
     Iroquois outside reservations in New York, Connecticut,
     and Massachusetts                                          79
-    Mixed Seneca and Cayuga at Quapaw agency, Indian 
+    Mixed Seneca and Cayuga at Quapaw agency, Indian
     Territory                                                 255
                                                             -----
                                                             7,350
@@ -25078,7 +25079,7 @@ the various tribes joined in dancing, which was usually kept up to
 a late hour." The wampum belt was explained, according to Stanley's
 account, by Major George Lowrey (Agi`li, "Rising"), second chief of the
 Nation, who thus recited the tradition of its coming from the Seneca
-[i. e. Iroquois]. The talk abounds in Indian reference and symbolism:
+[i.e. Iroquois]. The talk abounds in Indian reference and symbolism:
 
 "You will now hear a talk from our forefathers. You must not think
 hard if we make a few mistakes in describing our wampum. If we do,
@@ -25480,7 +25481,7 @@ her unmarried sisters.
 96. The Seneca peacemakers (p. 365): This story was told to Schoolcraft
 by the Seneca more than fifty years ago. A somewhat similar story
 is related by Adair (Hist. American Indians, p. 392) of a young
-"Anantooeah" (i. e., Nûndawegi or Seneca) warrior taken by the Shawano.
+"Anantooeah" (i.e., Nûndawegi or Seneca) warrior taken by the Shawano.
 
 Death song--It seems to have been a chivalrous custom among the eastern
 tribes to give to the condemned prisoner who requested it a chance to
@@ -25552,7 +25553,7 @@ they may possibly have been the Congaree, Santee, or Sewee, farther
 down in South Carolina. In the Seneca form, as here given, ge (ge`)
 is a locative, and ono (oñnoñ) a tribal suffix qualifying the root
 of the word, the whole name signifying "people of, or at, Seoqgwa"
-(cf. Oyadageono, etc., i. e., Cherokee, p. 186).
+(cf. Oyadageono, etc., i.e., Cherokee, p. 186).
 
 Go to water--This rite, as practiced among the Cherokee, has been
 already noted in the chapter on stories and story tellers. Ceremonial
@@ -25596,7 +25597,7 @@ Ethnology. In this instance the visiting Pawnee carried a flag in
 lieu of a pipe.
 
 The Cherokee ceremonial is thus described by Timberlake as witnessed at
-Citico in 1762: 'About 100 yards from the town-house we were received
+Citico in 1762: "About 100 yards from the town-house we were received
 by a body of between three and four hundred Indians, ten or twelve of
 which were entirely naked, except a piece of cloth about their middle,
 and painted all over in a hideous manner, six of them with eagles'
@@ -25870,7 +25871,7 @@ themselves Lena'pe or Leni-lena'pe, a term apparently signifying
 "real, or original men," or "men of our kind." To the cognate tribes
 of the Ohio valley and the lakes they were known as Wapanaq'ki,
 "easterners," the name being extended to include the closely related
-tribes, the Mahican, Wappinger (i. e. Wapanaq'ki), Nanticoke, and
+tribes, the Mahican, Wappinger (i.e. Wapanaq'ki), Nanticoke, and
 Conoy. By all the widespread tribes of kindred Algonquian stock, as
 well as by the Winnebago, Wyandot, and Cherokee, they were addressed
 under the respectful title of "grandfather," the domineering Iroquois
@@ -26529,7 +26530,7 @@ ch by the old traders (see p. 188, "Dialects").
     ûñ   û nasalized.
     w    as in wit.
     y    as in you.
-    `    a slight aspirate, sometimes indicating the omission 
+    `    a slight aspirate, sometimes indicating the omission
          of a vowel.
 
 
@@ -26650,9 +26651,9 @@ the Tennessee-Georgia line. It was one of the Chickamauga towns
 
 ama'yine'hi--"dwellers in the water," plural of amaye'hi.
 
-Anada'dûñtaski--"Roasters," i. e., Cannibals; from gûñ'taskû',
+Anada'dûñtaski--"Roasters," i.e., Cannibals; from gûñ'taskû',
 "I am putting it (round) into the fire to roast." The regular word
-for cannibals is Yûñ'wini'giski, q. v. See number 3.
+for cannibals is Yûñ'wini'giski, q.v. See number 3.
 
 anagâhûñ'ûñskû'--the Green-corn dance; literally, "they are having a
 Green-corn dance"; anagâhûñ'ûñsgûñ'yi, "where they are having the
@@ -26694,7 +26695,7 @@ Ani'-Gusa--see Ani'-Ku'sa.
 
 a'nigwa--soon after; dine'tlana a'nigwa, "soon after the creation."
 
-Ani'-Hyûñ'tikwalâ'ski--"The Thunderers," i. e., thunder, which
+Ani'-Hyûñ'tikwalâ'ski--"The Thunderers," i.e., thunder, which
 in Cherokee belief, is controlled and caused by a family of
 supernaturals. The word has reference to making a rolling sound;
 cf. tikwale'lu, a wheel, hence a wagon; ama'-tikwalelûñyi, "rolling
@@ -26708,11 +26709,11 @@ regular form for deer is a`wi'.
 Ani'-Kawi'ta--The Lower Creeks, from Kawi'ta or Coweta, their former
 principal town on Chattahoochee river near the present Columbus,
 Georgia; the Upper Creeks on the head streams of Alabama river were
-distinguished as Ani'-Ku'sa (q. v.) A small creek of Little Tennessee
+distinguished as Ani'-Ku'sa (q.v.) A small creek of Little Tennessee
 river above Franklin, in Macon county, North Carolina, is now known
 as Coweeta creek.
 
-Ani'-Kitu'hwagi--"Kitu'hwa people," from Kitu'hwa (q. v.), an ancient
+Ani'-Kitu'hwagi--"Kitu'hwa people," from Kitu'hwa (q.v.), an ancient
 Cherokee settlement; for explanation see page 182.
 
 Ani'-Ku'sa or Ani'-Gu'sa,--The Creek Indians, particularly the Upper
@@ -26757,7 +26758,7 @@ mythology. See numbers 3 and 8.
 Ani'sgaya'yi--"Men town" (?), a traditional Cherokee settlement on
 Valley river, in Cherokee county, North Carolina.
 
-anisgi'na--plural of asgi'na, q. v.
+anisgi'na--plural of asgi'na, q.v.
 
 Ani'-Skalâ'li--the Tuscarora Indians; singular, Skalâ'li or A-Skalâ'i.
 
@@ -26852,12 +26853,12 @@ killed in 1862. See page 170. The name may be rendered, "Standing in
 the doorway" but implies that the man himself is the door or shutter;
 it has no first person; gatâ'ga, "he is standing"; stu`ti, a door
 or shutter; stuhû', a closed door or passage; stugi'sti, a key,
-i. e. something with which to open a door.
+i.e. something with which to open a door.
 
 asûñ'tli, asûñtlûñ'yi--a footlog or bridge; literally, "log lying
 across," from asi'ta, log.
 
-ata'--wood; ata'ya, "principal wood," i. e. oak; cf. Muscogee iti,
+ata'--wood; ata'ya, "principal wood," i.e. oak; cf. Muscogee iti,
 wood.
 
 Atagâ'hi--"Gall place," from a'tagû', gall, and hi, locative; a
@@ -26893,7 +26894,7 @@ Ata-kullakulla--see Ata'-gûl`kalû'.
 Upper Cherokee of Adair. The form â'tali is used only in composition;
 a mountain in situ is âtalûñyi or gatu'si.
 
-â'tali-gûli'--"it climbs the mountain," i. e., "mountain-climber";
+â'tali-gûli'--"it climbs the mountain," i.e., "mountain-climber";
 the ginseng plant, Ginseng quinquefolium; from â'tali, mountain,
 and gûli', "it climbs" (habitually); tsilahi' or tsili', "I am
 climbing." Also called in the sacred formulas, Yûñ'wi Usdi', "Little
@@ -27068,7 +27069,7 @@ Cataluchee--see Gadalu'tsi.
 
 Cauchi--a place, apparently in the Cherokee country, visited by Pardo
 in 1567 (see page 29). The name may possibly have some connection
-with Nacoochee or Nagu`tsi', q. v.
+with Nacoochee or Nagu`tsi', q.v.
 
 Caunasaita--given as the name of a Lower Cherokee chief in 1684;
 possibly for Kanûñsi'ta, "dogwood" (Cornus florida). See page 31.
@@ -27201,7 +27202,7 @@ Tennessee. No reason can now be given for the name.
 Dahlonega--A town in Lumpkin County, Georgia, near which the first
 gold was mined. A mint was established there in 1838. The name is
 from the Cherokee dala'nige'i, yellow, whence ate'la-dalâ'nige'i,
-"yellow money," i. e., gold.
+"yellow money," i.e., gold.
 
 daksawa'ihû--"he is shedding tears."
 
@@ -27319,7 +27320,7 @@ motion of the bird when in the water. It is also the name of a dance.
 Diga'kati'yi--see Gakati'yi.
 
 di'galûñgûñ'yi--"where it rises, or comes up"; the east. The sacred
-term is Nûñdâ'yi, q. v.
+term is Nûñdâ'yi, q.v.
 
 digalûñ'latiyûñ--a height, one of a series, from galûn'lati,
 "above." See number 1.
@@ -27360,7 +27361,7 @@ di`nûski--"the breeder"; a variety of smilax brier. See number 126.
 Disgâ'gisti'yi--"Where they gnaw"; a place on Cheowa river, in Graham
 county, North Carolina. See number 122.
 
-diskwa`ni--"chestnut bread," i. e., a variety of bread having chestnuts
+diskwa`ni--"chestnut bread," i.e., a variety of bread having chestnuts
 mixed with it. The Cherokee name of James Blythe, interpreter and
 agency clerk.
 
@@ -27488,7 +27489,7 @@ e'ladi'--low, below; in the Lower dialect e'radi', whence the Ayrate
 or Lower Cherokee of Adair as distinguished from the Ottare (â'tari,
 â'tali) or Upper Cherokee.
 
-elanti--a song form for e'ladi, q. v.
+elanti--a song form for e'ladi, q.v.
 
 Elatse'yi (abbreviated Elatse')--possibly "Green (Verdant) earth," from
 ela, earth, and itse'yi, green, from fresh-springing vegetation. The
@@ -27765,7 +27766,7 @@ upon acorns and its cry somewhat resembles the name, gule'.
 gûle'gi--"climber," from tsilahi', "I climb" (second person, hi'lahi';
 third person, gûlahi'); the blacksnake (Bascanion constrictor).
 
-Gûl`kala'ski--An earlier name for Tsunu'lahûñ'ski, q. v.
+Gûl`kala'ski--An earlier name for Tsunu'lahûñ'ski, q.v.
 
 gûl`kwâ'gi--seven; also the mole-cricket (Gryllotalpa). See number 59.
 
@@ -27904,7 +27905,7 @@ hwi'lahi--"thou (must) go."
 
 
 igagû'ti--daylight. The name is sometimes applied to the ulûñsû'ti
-(q. v.), and also to the clematis vine.
+(q.v.), and also to the clematis vine.
 
 i'hya--the cane reed (Arundinaria) of the Gulf states, used by the
 Indians for blowguns, fishing rods, and basketry.
@@ -27923,7 +27924,7 @@ i'nage'hi--dwelling in the wilderness, an inhabitant of the wilderness;
 from i'nage'i, "wilderness," and ehi, habitual present form of ehû,
 "he is dwelling"; ge'û, "I am dwelling."
 
-I'nage-utasûñ'hi--"He who grew up in the wilderness," i. e. "He who
+I'nage-utasûñ'hi--"He who grew up in the wilderness," i.e. "He who
 grew up wild"; from i'nage'i, "wilderness, unoccupied timber land," and
 utasûñ'hi, the third person perfect of the irregular verb, ga'tûñskû',
 "I am growing up."
@@ -27969,10 +27970,10 @@ the meaning is lost. The most important settlement of this name,
 frequently distinguished as Great Echota, was on the south side of
 Little Tennessee river a short distance below Citico creek in Monroe
 county, Tennessee. It was the ancient capital and sacred "peace town"
-of the Nation. Little Echota was on Sautee (i. e., Itsâ'ti) creek, a
+of the Nation. Little Echota was on Sautee (i.e., Itsâ'ti) creek, a
 head stream of the Chattahoochee, west of Clarkesville, Georgia. New
 Echota, the capital of the Nation for some years before the Removal,
-was established at a spot originally known as Gansa'gi (q. v.) at the
+was established at a spot originally known as Gansa'gi (q.v.) at the
 junction of the Oostanaula and Conasauga rivers, in Gordon county,
 Georgia. It was sometimes called Newtown. The old Macedonia mission on
 Soco creek, of the North Carolina reservation, is also known as Itsâ'ti
@@ -28283,7 +28284,7 @@ river, in Habersham county, Georgia. The meaning of the word is
 lost and it is doubtful if it be of Cherokee origin. It may have
 some connection with the name of the Uchee Indians. The great mound
 farther up Sautee river, in White county, was known to the Cherokee
-as Itsâ'ti, q. v.
+as Itsâ'ti, q.v.
 
 nakwisi' (abbreviated nakw`si)--star; also the meadow lark.
 
@@ -28381,12 +28382,12 @@ with the archaic forms adûñni'ga, "it has just become so," and udûñnû',
 nûñ'da'--the sun or moon, distinguished as nûñ'da' ige'hi, "nûñ'dã'
 dwelling in the day," and nûñ'da' sûñnâ'yehi, "nûñ'da' dwelling in the
 night." In the sacred formulas the moon is sometimes called Ge`yagu'ga,
-q. v., or Su'talidihi', "Six-killer," names apparently founded upon
+q.v., or Su'talidihi', "Six-killer," names apparently founded upon
 myths now lost.
 
 nûñ'da'-dika`ni--a rare bird formerly seen occasionally in the
 old Cherokee country, possibly the little blue heron (Floridus
-cerulea). The name seems to mean "it looks at the sun," i. e.,
+cerulea). The name seems to mean "it looks at the sun," i.e.,
 "sun-gazer," from nûñ'da', sun, and da'ka`na' or detsi'ka`na, "I am
 looking at it." See number 35.
 
@@ -28394,14 +28395,14 @@ Nûñ'dâgûñ'yi, Nûñdâ'yi--the Sun land, or east; from nûñda', sun, and
 yi, locative. Used in the sacred formulas instead of di'galûñgûñ'yi,
 "where it rises," the common word.
 
-Nûñ'daye`li--"Middle (i. e. Noonday) sun," from nûñda', sun and aye`li,
+Nûñ'daye`li--"Middle (i.e. Noonday) sun," from nûñda', sun and aye`li,
 middle; a former Cherokee settlement on Nantahala river, near the
 present Jarrett station, in Macon county, North Carolina, so called
 from the high cliffs which shut out the view of the sun until nearly
 noon. The name appears also as Nantahala, Nantiyallee, Nuntialla,
 etc. It appears to have been applied properly only to the point on the
 river where the cliffs are most perpendicular, while the settlement
-itself was known as Kanu'gû`lâ'yi, "Briertown," q. v. See number 122.
+itself was known as Kanu'gû`lâ'yi, "Briertown," q.v. See number 122.
 
 Nugatsa'ni--a ridge sloping down to Oconaluftee river, below Cherokee,
 in Swain county, North Carolina. The word is an archaic form denoting
@@ -28439,7 +28440,7 @@ Nûñne'hi (also Gûñne'hi; singular Naye'hi)--a race of invisible
 spirit people. The name is derived from the verb e'hû', "I dwell,
 I live," e'hi', "I dwell habitually," and may be rendered "dwellers
 anywhere," or "those who live anywhere," but implies having always been
-there, i. e., "Immortals." It has been spelled Nanehi and Nuhnayie by
+there, i.e., "Immortals." It has been spelled Nanehi and Nuhnayie by
 different writers. The singular form Naye'hi occurs also as a personal
 name, about equivalent to Eda'hi, "One who goes about." See number 78.
 
@@ -28459,7 +28460,7 @@ Nûñ'yunu'wi--contracted from Nûñyû-unu'wi. "Stone-clad," from nûñyû,
 rock, and agwanu'wû, "I am clothed or covered." A mythic monster,
 invulnerable by reason of his stony skin. See number 67. The name
 is also applied sometimes to the stinging ant, dasûñtâli atatsûñski,
-q. v. It has also been spelled Nayunuwi.
+q.v. It has also been spelled Nayunuwi.
 
 Nûñyû'-tlu`gûñi (or Nûñyû-tsu`gûñ'i)--"Tree rock." A notable rock on
 Hiwassee river, just within the North Carolina line. See number 66
@@ -28577,7 +28578,7 @@ sâ'gwali', horse; from asâgwâlihû, a pack or burden, asâgwullû';
 "there is a pack on him."
 
 sâ'gwali digû'lanahi'ta--mule; literally "long eared horse," from
-sâ'gwali, horse, and digû'lanahi'ta, q. v.
+sâ'gwali, horse, and digû'lanahi'ta, q.v.
 
 Sâkwi'yi (or Suki'yi; abbreviated Sâkwi' or Suki')--a former settlement
 on Soquee river, a head-stream of Chattahoochee, near Clarkesville,
@@ -28606,7 +28607,7 @@ Santeetla--the present map name of a creek joining Cheowa river in
 Graham county, North Carolina, and of a smaller tributary (Little
 Santeetla). The name is not recognized or understood by the Cherokee,
 who insist that it was given by the whites. Little Santeetla is known
-to the Cherokee as Tsunda`nilti'yi, q. v.; the main Santeetla creek is
+to the Cherokee as Tsunda`nilti'yi, q.v.; the main Santeetla creek is
 commonly known as Nâgu'hi geyûñ'i, "Sand-place stream," from Nûyu'hii,
 "Sand place" (nâyu, sand), a former settlement just above the junction
 of the two creeks.
@@ -28619,9 +28620,9 @@ Sautee--see Itsâ'ti.
 
 Savannah--the popular name of this river is derived from that of the
 Shawano Indians, formerly living upon its middle course, and known to
-the Cherokee as Ani'-Sawanu'gi, q. v., to the Creeks as Savanuka, and
+the Cherokee as Ani'-Sawanu'gi, q.v., to the Creeks as Savanuka, and
 to some of the coast tribes of Carolina as Savanna. In old documents
-the river is also called Isundiga, from I`sû'nigû or Seneca, q. v.,
+the river is also called Isundiga, from I`sû'nigû or Seneca, q.v.,
 an important former Cherokee settlement upon its upper waters. See
 number 99.
 
@@ -28669,7 +28670,7 @@ notes. Sequatchee, the name of the river below Chattanooga, in
 Tennessee, is probably a corruption of the same word.
 
 si'kwa--hog; originally the name of the opossum, now distinguished
-as si'kwa utset'sti, q. v.
+as si'kwa utset'sti, q.v.
 
 si'kwa utset'sti--opossum: literally "grinning hog," from si'kwa,
 hog, and utset'sti, "he grins (habitually)." Cf. sikwa.
@@ -28829,7 +28830,7 @@ its meaning.
 
 Talassee--see Ta`lasi'.
 
-tala'tu--cricket; sometimes also called dita'staye'ski (q. v.),
+tala'tu--cricket; sometimes also called dita'staye'ski (q.v.),
 "the barber." Cf. ta'ladu', twelve.
 
 Tâle'danigi'ski (Utâle'danigi'si, in a dialectic form)--variously
@@ -28874,7 +28875,7 @@ occurring in two or more places in the old Cherokee country, viz:
 Rabun county, Georgia; 2. a town on Tallulah creek of Cheowa river, in
 Graham county, North Carolina. The word is of uncertain etymology. The
 dulu'si frog is said to cry talulu'. See number 125. The noted falls
-upon Tallulah river are known to the Cherokee as Ugûñ'yi, q. v.
+upon Tallulah river are known to the Cherokee as Ugûñ'yi, q.v.
 
 Taluntiski--see Ata'lûñti'ski.
 
@@ -28988,7 +28989,7 @@ tla'nuwa' usdi'--"little tla'nuwa'"; probably the goshawk (Astur
 atricapillus). See number 35.
 
 Tla'nuwa'-atsiyelûñ'isûñ'yi--"Where the Tla'nuwa cut it up,"
-from tla'nuwa', q. v., and tsiyelûñ'iskû', an archaic form for
+from tla'nuwa', q.v., and tsiyelûñ'iskû', an archaic form for
 tsigûñilûñ'iskû', "I am cutting it up." A place on Little Tennessee
 river, nearly opposite the entrance of Citico creek, in Blount county,
 Tennessee. See number 64 and notes.
@@ -29073,7 +29074,7 @@ tsa'nadiskâ'--for tsandiskâi, "they say."
 
 tsana'sehâ'i--so they say, they say about him. See number 118.
 
-tsâne'ni--the scorpion lizard; also called gi'ga-danegi'ski, q. v. See
+tsâne'ni--the scorpion lizard; also called gi'ga-danegi'ski, q.v. See
 number 59.
 
 Tsani--John.
@@ -29085,7 +29086,7 @@ captain, formerly living on Nottely river. See number 122.
 
 Tsan-usdi'--"Little John"; the Cherokee name for General John Sevier,
 and also the boy name of the chief John Ross, afterward known as
-Gu'wisguwi', q. v. Sikwi'a, a Cherokee attempt at "Sevier," is a
+Gu'wisguwi', q.v. Sikwi'a, a Cherokee attempt at "Sevier," is a
 masculine name upon the East Cherokee reservation.
 
 tsanu'si'--see tlanu'si'.
@@ -29104,7 +29105,7 @@ Tsatanu'gi (commonly spelled Chattanooga)--the Cherokee name for
 some point upon the creek entering Tennessee river at the city of
 Chattanooga, in Hamilton county, Tennessee. It has no meaning in the
 Cherokee language and appears to be of foreign origin. The ancient
-name for the site of the present city is A`tla'nuwa, q. v. See number
+name for the site of the present city is A`tla'nuwa, q.v. See number
 124. Before the establishment of the town the place was known to
 the whites as Ross' landing, from a store kept there by Lewis Ross,
 brother of the chief John Ross.
@@ -29173,7 +29174,7 @@ is an onomatope. See number 35.
 Tsiksi'tsi (Tûksi'tsi in dialectic form; commonly written
 Tuckasegee)--1. a former Cherokee settlement about the junction
 of the two forks of Tuckasegee, above Webster, in Jackson county,
-North Carolina (not to be confounded with Tikwali'tsi, q. v.). 2. A
+North Carolina (not to be confounded with Tikwali'tsi, q.v.). 2. A
 former settlement on a branch of Brasstown creek of Hiwassee river,
 in Towns county, Georgia. The word has lost its meaning.
 
@@ -29197,7 +29198,7 @@ Tsiskwâ'hi--"Bird place," from tsi'skwa, bird, and hi,
 locative. Birdtown settlement on the East Cherokee reservation,
 in Swain county, North Carolina.
 
-tsiskwâ'ya--sparrow, literally "principal bird" (i. e., most widely
+tsiskwâ'ya--sparrow, literally "principal bird" (i.e., most widely
 distributed), from tsi'skwa, bird, and yâ, a suffix denoting principal
 or real.
 
@@ -29356,7 +29357,7 @@ Jackson county, North Carolina. The name seems to mean, "There where
 it is white," from ts, a prefix indicating distance, une'ga, white,
 and yi, locative. See number 81 and notes.
 
-Tsunil'`kalû--the plural form for Tsul`kalû, q. v.; a traditional
+Tsunil'`kalû--the plural form for Tsul`kalû, q.v.; a traditional
 giant tribe in the west. See number 106.
 
 tsunû'`liyû'sûnestlâ'ta--"they have split noses," from agwa`liyû',
@@ -29376,7 +29377,7 @@ tsunsdi'--contracted from tsunsdi'ga, the plural of usdi'ga or usdi',
 small.
 
 Tsunu'lahûñ'ski-- "He tries, but fails" (habitually), from
-detsinu'lahûñ'gû' (q. v.), "I tried, but failed." A former noted chief
+detsinu'lahûñ'gû' (q.v.), "I tried, but failed." A former noted chief
 among the East Cherokee, commonly known to the whites as Junaluska. In
 early life he was called Gûl`kala'ski, a name which denotes something
 habitually falling from a leaning position (cf. Ata-gûl`kalû' and
@@ -29418,7 +29419,7 @@ its meaning. Pilot knob, north from Brevard, in Transylvania county,
 North Carolina. See number 82 and notes.
 
 Tsuwa'-uniyetsûñ'yi--"Where the water-dogs laughed," from tsuwa'
-(q. v.), "water-dog," uniye'tsû, "they laughed" (agiyet'skû, "I
+(q.v.), "water-dog," uniye'tsû, "they laughed" (agiyet'skû, "I
 am laughing"), and yi, locative; Tusquittee bald, near Hayesville,
 in Clay county, North Carolina. For story see number 122.
 
@@ -29759,7 +29760,7 @@ a dangerous rapid in Tennessee river, at the entrance of Suck creek,
 about eight miles below Chattanooga, Tennessee. See number 63 and
 notes.
 
-U`tlûñ'ta--"He (or she) has it sharp," i. e., has some sharp part
+U`tlûñ'ta--"He (or she) has it sharp," i.e., has some sharp part
 or organ; it might be used of a tooth, finger-nail, or some other
 attached portion of the body, but in the story is understood to refer
 to the awl-like finger. Ten Kate spells it Uilata. A mythic half-human
@@ -29831,7 +29832,7 @@ Tennessee. See number 75 and notes.
 
 
 Uy'gilâ'gi--abbreviated from Tsuyu`gilâ'gi, "Where there are dams,"
-i. e., beaver dams; from gu`gilû'ûñskû', "he is damming it." 1. A
+i.e., beaver dams; from gu`gilû'ûñskû', "he is damming it." 1. A
 former settlement on Oothcaloga (Ougillogy) creek of Oostanaula river,
 near the present Calhoun, in Gordon county, Georgia; 2. Beaverdam
 creek, west of Clarkesville, in Habersham county, Georgia.
@@ -29848,7 +29849,7 @@ wadâñ'--thanks!
 
 wâ'di--paint, especially red paint.
 
-wâ'dige-askâ'li--"his head (is) brown," i. e., "brown-head," from
+wâ'dige-askâ'li--"his head (is) brown," i.e., "brown-head," from
 wâdige'i, brown, brown-red, and askâ'li, possessive of uska', head;
 the copperhead snake.
 
@@ -29875,7 +29876,7 @@ wa`ka--cow; from the Spanish vaca, as is also the Creek waga and the
 Arapaho wakûch.
 
 walâ'si--the common green frog; there are different names for the
-bullfrog (kûnu'nu, q. v.) and for other varieties; warts are also
+bullfrog (kûnu'nu, q.v.) and for other varieties; warts are also
 called walâ'si.
 
 Walâsi'yi--"Frog place." 1. A former settlement, known to the whites
@@ -29898,7 +29899,7 @@ Walini'--a feminine name, compounded from Wali, another form of Kwali,
 "Polly," with a suffix added for euphony.
 
 Wane'-asûñ'tlûñyi--"Hickory footlog place," from wane'i, hickory,
-asûñtlûñ'i (q. v.), footlog, bridge, and yi, locative. A former
+asûñtlûñ'i (q.v.), footlog, bridge, and yi, locative. A former
 settlement, known to the whites as Hickory-log, on Etowah river,
 a short distance above Canton, in Cherokee county, Georgia.
 
@@ -29939,7 +29940,7 @@ his place it was locally known as the Wachesa trail.
 wa`ya--wolf; the name is an onomatope, intended as an imitation of
 the animal's howl; cf. the Creek name, yähä.
 
-Wa`yâ'hi--"Wolf place," i. e. place of the Wolf clan; the form
+Wa`yâ'hi--"Wolf place," i.e. place of the Wolf clan; the form
 Ani'-Wa`yâ'hi is not used. Wolftown settlement on upper Soco creek,
 on the East Cherokee reservation, in Jackson county, North Carolina.
 
@@ -29984,10 +29985,10 @@ wusûhihûñ'yi.
 Wuliga'natûtûñ--excelling all others, either in good or bad; it may
 be used as equivalent to wastûñ, "beyond the limit." See page 232.
 
-wusûhihûñ'yi--"there where they stay over night," i. e. "the west." An
+wusûhihûñ'yi--"there where they stay over night," i.e. "the west." An
 archaic term used by the narrator of the story of Ûñtsaiyi', number
-63. The common word is wude'ligûñ'yi, q. v., while the term in the
-sacred formulas is Usûñhi'yi, q. v.
+63. The common word is wude'ligûñ'yi, q.v., while the term in the
+sacred formulas is Usûñhi'yi, q.v.
 
 
 Xuala--see Ani-Suwa'li.
@@ -30074,7 +30075,7 @@ yu'we-yuwehe'--an unmeaning song refrain. See number 118.
 yûñ'wi--person, man; cf. Mohawk oñgwe`.
 
 Yûñ'wi Ama'yine'hi--"Water-dwelling People," from yûñ'wi, person, and
-ama'yine'hi, plural of amaye'hi, q. v.; a race of water fairies. See
+ama'yine'hi, plural of amaye'hi, q.v.; a race of water fairies. See
 number 78.
 
 Yûñ'wi-dikatâgûñ'yi--see Yûñ'wi-tsulenûñ'yi.
@@ -30103,7 +30104,7 @@ and tsunsdi'ga or tsunsdi', plural of usdi'ga, or usdi', little;
 the Cherokee fairies. See number 78.
 
 Yûñ'wi Usdi'--"Little Man." A formulistic name for the ginseng,
-â'tali-gûli', q. v.
+â'tali-gûli', q.v.
 
 Yûñ'wi-usga'se`ti--"Dangerous Man, Terrible Man"; a traditional leader
 in the westward migration of the Cherokee. See page 99.
@@ -30292,7 +30293,7 @@ Sheffield, 1896.
 [66] Hewat, South Carolina and Georgia, II, pp. 3-11, 1779; treaty
 documents of 1730, North Carolina Colonial Records, III, pp. 128-133,
 1886; Jenkinson, Collection of Treaties, II, pp. 315-318; Drake,
-S.G., Early History of Georgia: Cuming's Embassy; Boston, 1872;
+S. G., Early History of Georgia: Cuming's Embassy; Boston, 1872;
 letter of Governor Johnson, December 27, 1730, noted in South Carolina
 Hist. Soc. Colls., I, p. 246, 1867.
 
@@ -30304,7 +30305,7 @@ III, pp. 153, 202, 345, 369, 393, 1886.
 [69] Meadows(?), State of the Province of Georgia, p. 7, 1742, in
 Force Tracts, I, 1836.
 
-[70] Jones, C.C., History of Georgia, I, pp.327, 328; Boston, 1883.
+[70] Jones, C. C., History of Georgia, I, pp.327, 328; Boston, 1883.
 
 [71] Adair, American Indians, pp. 240-243, 1775; Stevens, W. B.,
 History of Georgia, I, pp. 104-107; Phila., 1847.
@@ -30314,7 +30315,7 @@ II, pp. 97-98, 517, 1836.
 
 [73] Buckle, Journal, 1757, in Rivers, South Carolina, p. 57, 1856.
 
-[74] Barcia, A.G., Ensayo Chronologico para la Historia General de
+[74] Barcia, A. G., Ensayo Chronologico para la Historia General de
 la Florida, pp. 335, 336. Madrid, 1723.
 
 [75] For more in regard to these intertribal wars see the historical
